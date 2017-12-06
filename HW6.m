@@ -1,4 +1,14 @@
 %HW6
+%GB comments
+1a 95 no axis labels
+1b 95 no axis labels
+1c 95 no axis labels
+1d 95 no axis labels. 
+1e 85 no axis labels. Also, missing commentary in how changing in the parameter values affects r^2. 
+2a 100
+2b 70 no axis labels. Your commentary is just restating the information of the graph. Need to directly address what is special about the mean distribution being 0 in the second case. 
+2c 80 No Axis labels. Also your comments are not very clear and, again, state the obvious trend seen in the graph. We are looking for you to make comments on why the behavior occurs. 
+Overall 89
 
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
